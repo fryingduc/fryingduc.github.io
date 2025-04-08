@@ -39,5 +39,4 @@ To take this in a nutshell, this blog will be a mess filled with a bunch of rand
 Lastly, this blog is proudly powered by [Jekyl](https://jekyllrb.com/) and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
