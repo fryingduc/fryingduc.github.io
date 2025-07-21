@@ -24,7 +24,7 @@ Overall, I'm a CP, video games and movies addict, that's it!
 
 ## Achievements 
 
-See **Achievements** on the navigation bar or click [this](/achivements/)
+See **Achievements** on the navigation bar or click [this](/achievements/)
 
 ## What is this blog even about?
 

@@ -1,7 +1,7 @@
 main:
-  - title: "About me"
+  - title: "about me"
     url: /about/
-  - title: "Achievements"
+  - title: "achievements"
     url: /achievements/
 
   
